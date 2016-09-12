@@ -1,4 +1,6 @@
-
+//Jak Popovic
+//ICEN 213
+//RPG Assignment 2
 public class Item {
 	private String name;
 	private int weight;
