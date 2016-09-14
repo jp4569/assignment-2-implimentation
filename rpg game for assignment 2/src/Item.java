@@ -11,5 +11,9 @@ public String getName(){
 public int getWeight(){
 	return weight;
 }
+public void examine(){
+	System.out.println("Name: " + name);
+	System.out.println("Name: " + weight);
+}
 
 }
