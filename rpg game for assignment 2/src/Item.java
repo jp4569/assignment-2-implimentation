@@ -8,6 +8,12 @@ public class Item {
 public String getName(){
 	return name;
 }
+public void setWeight(){
+	this.weight = weight;
+}
+public void setName(){
+	this.name = name;
+}
 public int getWeight(){
 	return weight;
 }
