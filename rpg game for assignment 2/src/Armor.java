@@ -1,7 +1,7 @@
 
 public class Armor extends Item {
 private int defense;
-public void setDefense(){
+public void setDefense(int defense){
 	this.defense = defense;
 }
 public int getDefense(){

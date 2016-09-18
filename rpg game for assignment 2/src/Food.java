@@ -14,5 +14,4 @@ public void setNutrition(int nutrition){
 public void setQuantity(int quantity){
 	this.quantity = quantity;
 }
-
 }

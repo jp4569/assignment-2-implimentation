@@ -9,10 +9,10 @@ public class Item {
 public String getName(){
 	return name;
 }
-public void setWeight(){
+public void setWeight(int weight){
 	this.weight = weight;
 }
-public void setName(){
+public void setName(String name){
 	this.name = name;
 }
 public int getWeight(){

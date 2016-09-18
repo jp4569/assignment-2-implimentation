@@ -4,7 +4,7 @@ private int damage;
 public int getDamage(){
 	return damage;
 }
-public void setDamage(){
+public void setDamage(int damage){
 	this.damage = damage;
 }
 public void examine2(){
