@@ -14,4 +14,8 @@ public void setNutrition(int nutrition){
 public void setQuantity(int quantity){
 	this.quantity = quantity;
 }
+public void examine3(){
+	System.out.println("Nutrition: " + nutrition);
+	System.out.println("Quantity: " + quantity);
+}
 }
