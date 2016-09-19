@@ -7,6 +7,8 @@ public int getDefense(){
 	return defense;
 }
 public void examine3(){
+	setName("Jak Popovic");
+	setWeight(200);
 	examine();
 	System.out.println("Defense: " + defense);
 }
