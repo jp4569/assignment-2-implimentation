@@ -1,5 +1,4 @@
 
-
 public class Main{
 	 public static void main(String[] args){
 		 Item impliment = new Item();
@@ -8,11 +7,13 @@ public class Main{
 		 Food impliment4 = new Food();
 		 impliment.setName("Jak Popovic");
 		 impliment.setWeight(200);
-		 impliment2.setDamage(4500);
-		 impliment3.setDefense(5500);
-		 impliment4.setNutrition(500);
-		 impliment4.setQuantity(7);
 		 impliment.examine();
+		 impliment2.setDamage(4500);
+		 impliment2.examine2();
+		 impliment3.setDefense(5500);
+		 impliment3.examine3();
+		 impliment4.examine4();
+		 
 	}
 
 }
