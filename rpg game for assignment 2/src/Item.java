@@ -21,7 +21,6 @@ public int getWeight(){
 public void examine(){
 	System.out.println("Name: " + name);
 	System.out.println("Weight: " + weight);
-	System.out.println("Damage: " + getDamage());
 }
 
 }
