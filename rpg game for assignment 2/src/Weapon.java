@@ -8,8 +8,6 @@ public void setDamage(int damage){
 	this.damage = damage;
 }
 public void examine2(){
-	System.out.println("Name: " + getName());
-	System.out.println("Name: " + getWeight());
 	System.out.println("Damage: " + damage);
 	
 }
