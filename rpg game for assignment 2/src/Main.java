@@ -12,6 +12,8 @@ public class Main{
 		 impliment2.examine2();
 		 impliment3.setDefense(5500);
 		 impliment3.examine3();
+		 impliment4.setNutrition(200);
+		 impliment4.setQuantity(7);
 		 impliment4.examine4();
 		 
 	}

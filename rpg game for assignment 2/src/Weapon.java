@@ -7,7 +7,9 @@ public void setDamage(int damage){
 	this.damage = damage;
 }
 public void examine2(){
+	examine();
 	System.out.println("Damage: " + damage);
+	
 	
 }
 }
